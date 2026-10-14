@@ -1,0 +1,11 @@
+{
+	"provideLibs": [	
+		    "libdummy_efibootmgr-x86_64-v2.so",
+		    "libdummy_efibootmgr.so"
+	],
+	"requireLibs": [	
+		    "libefivar.so",
+		    "libpopt.so"
+	],
+	"visible": true
+}
